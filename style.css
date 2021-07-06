@@ -71,16 +71,22 @@ body{
     border-radius: 25px;
 }
 #my-recipies{
-    margin: 30px 40px 30px 30px;
-    text-align: center;
+    margin: 30px;
+    text-align:center;
     width: 100%;
     height: 100%;
+}
+#my-recipies div{
+    margin: 30px 350px ;
 }
 #my-recipies h1{
     font-size: 35px;
 }
 #recipie-detail{
-
+    margin: 20px;
+    height: auto;
+    width: 100%;
+    display: flex;
 }
 .recipie-detail-list{
 
